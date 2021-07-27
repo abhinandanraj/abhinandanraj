@@ -11,7 +11,6 @@
 - 👯 I’m looking to collaborate on **Python and Web Projects.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/abhinandanraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="30" width="40" /></a>
 - 💬 Ask me about **Python, HTML and CSS.**
-<br />
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandanraj&theme=radical&hide_border=true"/>
