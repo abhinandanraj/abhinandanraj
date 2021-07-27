@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **Python and Web Projects.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/abhinandanraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="30" width="40" /></a>
 - 💬 Ask me about **Python, HTML and CSS.**
-</br>
+<br />
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandanraj&theme=radical&hide_border=true"/>
@@ -35,7 +35,7 @@
 
 <details>
   <summary>📊 <b>Github Readme Stats</b></summary>
- </br>
+ <br />
  <p align="center">
   <a href="https://github.com/abhinandanraj">
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandanraj&show_icons=true&theme=radical&count_private=true">
@@ -48,7 +48,7 @@
 
 <details>
  <summary>🏆 <b>Github Profile Trophy</b></summary>
- </br>
+ <br />
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
    <img src="https://github-profile-trophy.vercel.app/?username=abhinandanraj&column=8&theme=darkhub"/>
