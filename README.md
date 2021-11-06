@@ -61,7 +61,7 @@
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
   	   <li><b>OS:</b> Windows 10 </li>
-	     <li><b>Laptop: </b> Asus X507U (i5)</li>
+	     <li><b>Laptop: </b> MSI Bravo 15 (AMD RYZEN 5)</li>
   	   <li><b>Browser: </b> Firefox Web Browser</li>
 	     <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	     <li><b>To Stay Updated:</b> Linkedin </li>
